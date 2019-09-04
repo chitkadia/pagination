@@ -1,0 +1,20 @@
+{
+  "name": "tk-pagination",
+  "version": "1.0.10",
+  "keywords": [
+    "angular2 pagination",
+    "angular4 pagination",
+    "angular5 pagination",
+    "angular6 pagination",
+    "angular7 pagination",
+    "angular8 pagination",
+    "tk-pagination",
+    "tkl-pagination"
+  ],
+  "license": "MIT",
+  "author":"Tarak Kadiya",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}
